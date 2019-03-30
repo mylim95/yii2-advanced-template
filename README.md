@@ -34,6 +34,8 @@ for example: ``` cd /var/www/sites/ ```
 3. Run the Composer ```create-project``` command:
 
    ``` composer create-project mylim95/yii2-advanced-template.git ```
+   
+   3a.Or you can using gir clone commnad: ```git clone https://github.com/mylim95/yii2-advanced-template.git```
 
 4. Once template is downloaded, you need to initialize it in one of two environments:
 development (dev) or production (prod). Change your working directory to ```_protected``` 
